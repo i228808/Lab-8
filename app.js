@@ -1,6 +1,6 @@
 const bcrypt = require("bcryptjs");
 const jwt = require("jsonwebtoken");
-const SECRET_KEY = "your_secret_key";
+const SECRET_KEY = "Hello";
 
 class EventPlanner {
   constructor() {
